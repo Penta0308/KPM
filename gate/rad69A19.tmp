@@ -1,0 +1,61 @@
+ Volume in drive C has no label.
+ Volume Serial Number is D808-41D3
+
+ Directory of c:\WebSite\KPM\gate
+
+2011/06/16  15:12    <DIR>          .
+2011/06/16  15:12    <DIR>          ..
+2005/12/19  17:08             6,244 ContactWrite.aspx
+2005/12/16  19:19             5,318 ContactWrite.aspx.resx
+2006/01/05  21:54             5,088 ContactWrite.aspx.vb
+2005/12/16  18:34             1,162 ContactWritePopup.htm
+2005/12/16  18:34             1,170 ContactWritePopup_jpn.htm
+2005/12/19  17:08             6,404 ContactWrite_jpn.aspx
+2005/12/16  19:19             5,318 ContactWrite_jpn.aspx.resx
+2005/12/20  17:35             9,532 ContactWrite_jpn.aspx.vb
+2005/12/16  18:42             9,372 gate_contact.aspx
+2005/08/09  17:07             1,733 gate_contact.aspx.resx
+2005/08/09  17:07               914 gate_contact.aspx.vb
+2006/01/11  18:01             9,390 gate_contact_jpn.aspx
+2005/12/20  17:37               918 gate_contact_jpn.aspx.vb
+2006/05/10  15:02            16,878 gate_guide.aspx
+2005/08/09  17:07             1,733 gate_guide.aspx.resx
+2005/08/09  17:07               912 gate_guide.aspx.vb
+2006/05/10  15:02            10,470 gate_guide_jpn.aspx
+2005/12/20  17:37               916 gate_guide_jpn.aspx.vb
+2005/12/20  17:35            17,250 gate_intro.aspx
+2005/08/09  17:07             1,733 gate_intro.aspx.resx
+2005/08/09  17:07               912 gate_intro.aspx.vb
+2006/01/11  18:01            16,724 gate_intro_jpn.aspx
+2005/12/20  17:37               916 gate_intro_jpn.aspx.vb
+2006/01/19  18:15            11,004 gate_main.aspx
+2005/08/09  17:07             5,318 gate_main.aspx.resx
+2005/12/20  17:35             4,250 gate_main.aspx.vb
+2006/01/19  18:15            11,066 gate_main_jpn.aspx
+2005/12/20  17:49             2,252 gate_main_jpn.aspx.vb
+2006/01/31  18:01            15,174 gate_media.aspx
+2005/08/09  17:07             1,733 gate_media.aspx.resx
+2005/08/09  17:07               912 gate_media.aspx.vb
+2006/01/31  18:01            17,768 gate_media_jpn.aspx
+2005/12/20  17:37               916 gate_media_jpn.aspx.vb
+2005/11/29  17:38             3,982 gate_popup_notice.aspx
+2005/08/09  17:07             5,318 gate_popup_notice.aspx.resx
+2005/08/09  17:07             2,106 gate_popup_notice.aspx.vb
+2005/12/20  17:34             2,003 gate_popup_notice_jpn.aspx
+2005/12/20  17:34             5,318 gate_popup_notice_jpn.aspx.resx
+2005/12/20  17:34             2,113 gate_popup_notice_jpn.aspx.vb
+2006/05/10  15:02            21,456 gate_qna.aspx
+2005/12/15  15:00               910 gate_qna.aspx.vb
+2006/05/10  15:11            18,270 gate_qna_jpn.aspx
+2005/12/20  17:37               914 gate_qna_jpn.aspx.vb
+2010/07/06  12:24    <DIR>          include
+2011/06/16  15:12               142 rad257C3.tmp
+2011/06/16  15:12               324 rad257C3.tmperr
+2011/06/16  15:12                 0 rad69A19.tmp
+2011/06/16  15:12                 0 rad69A19.tmperr
+2011/05/27  16:09                 0 radC7340.tmp
+2011/05/27  16:09                 0 radC7340.tmperr
+2011/05/03  12:16            26,027 read.asp
+2010/07/06  12:24    <DIR>          Uploaded
+              50 File(s)        290,283 bytes
+               4 Dir(s)  367,409,635,328 bytes free

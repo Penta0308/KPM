@@ -1,0 +1,35 @@
+
+Windows IP Configuration
+
+
+Ethernet adapter ???? ????? 2:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::3866:9da3:cc0c:d697%11
+   IPv4 Address. . . . . . . . . . . : 211.16.229.171
+   Subnet Mask . . . . . . . . . . . : 255.255.255.128
+   Default Gateway . . . . . . . . . : 211.16.229.254
+
+Ethernet adapter ???? ?????:
+
+   Connection-specific DNS Suffix  . : 
+   Link-local IPv6 Address . . . . . : fe80::391f:ca31:8308:54e9%10
+   IPv4 Address. . . . . . . . . . . : 172.19.229.171
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+
+Tunnel adapter ???? ?????*:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+
+Tunnel adapter ???? ?????* 8:
+
+   Connection-specific DNS Suffix  . : 
+   IPv6 Address. . . . . . . . . . . : 2002:d310:e5ab::d310:e5ab
+   Default Gateway . . . . . . . . . : 2002:c058:6301::c058:6301
+
+Tunnel adapter ???? ?????* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 

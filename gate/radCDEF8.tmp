@@ -1,0 +1,72 @@
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : bsv01
+   Primary Dns Suffix  . . . . . . . : 
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+
+Ethernet adapter ???? ????? 2:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Broadcom NetXtreme Gigabit Ethernet #2
+   Physical Address. . . . . . . . . : 48-5B-39-12-4B-9D
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::3866:9da3:cc0c:d697%11(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 211.16.229.171(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.255.128
+   Default Gateway . . . . . . . . . : 211.16.229.254
+   DHCPv6 IAID . . . . . . . . . . . : 289954617
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-13-B3-A3-64-48-5B-39-12-48-5E
+   DNS Servers . . . . . . . . . . . : 211.125.95.210
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Ethernet adapter ???? ?????:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : Broadcom NetXtreme Gigabit Ethernet
+   Physical Address. . . . . . . . . : 48-5B-39-12-48-5E
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::391f:ca31:8308:54e9%10(Preferred) 
+   IPv4 Address. . . . . . . . . . . : 172.19.229.171(Preferred) 
+   Subnet Mask . . . . . . . . . . . : 255.255.0.0
+   Default Gateway . . . . . . . . . : 
+   DHCPv6 IAID . . . . . . . . . . . : 256400185
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-13-B3-A3-64-48-5B-39-12-48-5E
+   DNS Servers . . . . . . . . . . . : fec0:0:0:ffff::1%1
+                                       fec0:0:0:ffff::2%1
+                                       fec0:0:0:ffff::3%1
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+Tunnel adapter ???? ?????*:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : isatap.{43A98EC5-B17A-47CF-A769-E006A872217B}
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+
+Tunnel adapter ???? ?????* 8:
+
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : 6TO4 Adapter
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv6 Address. . . . . . . . . . . : 2002:d310:e5ab::d310:e5ab(Preferred) 
+   Default Gateway . . . . . . . . . : 2002:c058:6301::c058:6301
+   DNS Servers . . . . . . . . . . . : 211.125.95.210
+   NetBIOS over Tcpip. . . . . . . . : Disabled
+
+Tunnel adapter ???? ?????* 9:
+
+   Media State . . . . . . . . . . . : Media disconnected
+   Connection-specific DNS Suffix  . : 
+   Description . . . . . . . . . . . : isatap.{59C67792-CC59-4E6D-8B03-6C31576F58C3}
+   Physical Address. . . . . . . . . : 00-00-00-00-00-00-00-E0
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes

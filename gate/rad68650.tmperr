@@ -1,0 +1,2 @@
+ERROR: Invalid syntax. /U can be specified only when /S is specified.
+Type "TASKKILL /?" for usage.

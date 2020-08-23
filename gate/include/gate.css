@@ -1,0 +1,18 @@
+A:link		{font-size:9pt;font-family:gulim;color:#666666;text-decoration: none;}
+A:visited		{font-size:9pt;font-family:gulim;color:#666666;text-decoration: none;}
+A:active		{font-size:9pt;font-family:gulim;color:#ff8400;text-decoration: none;}
+A:hover  		{font-size:9pt; font-family:gulim; color:red; text-decoration:none;}
+
+TD		{font-family:gulim;font-size:9pt;color:#525252;line-height:150%}
+body		{font-family:gulim;font-size:9pt;color:gray}
+SELECT {font-size:9pt;color:353535;}
+
+.text {text-align:justify}
+.text_intro {text-align:justify;line-height:180%}
+
+.s_size {font-size:8pt}
+
+A.paper_a:link {color:white;text-decoration:none;}
+A.paper_a:visited {color:white;text-decoration:none;}
+A.paper_a:active {color:E58100;text-decoration:none;}
+A.paper_a:hover {color:E58100;text-decoration:underline;}

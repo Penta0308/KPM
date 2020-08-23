@@ -1,0 +1,68 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 40A7-B525
+
+ Directory of C:\Windows\SysWOW64\inetsrv
+
+09/11/2012  01:00 PM    <DIR>          .
+09/11/2012  01:00 PM    <DIR>          ..
+11/21/2010  12:24 PM           155,648 appcmd.exe
+06/11/2009  06:17 AM             3,654 appcmd.xml
+07/14/2009  10:14 AM           138,752 AppHostNavigators.dll
+11/21/2010  12:24 PM            61,440 apphostsvc.dll
+11/21/2010  12:24 PM           314,368 appobj.dll
+11/21/2010  12:25 PM           390,656 asp.dll
+07/14/2009  06:04 AM            22,196 asp.mof
+11/21/2010  12:24 PM           195,584 aspnetca.exe
+07/14/2009  09:10 AM            22,528 asptlb.tlb
+11/21/2010  12:24 PM            32,768 authanon.dll
+11/21/2010  12:25 PM            34,304 authbas.dll
+07/14/2009  10:15 AM            48,640 browscap.dll
+09/11/2012  01:00 PM            33,404 browscap.ini
+07/14/2009  10:15 AM            17,408 cachfile.dll
+07/14/2009  10:15 AM            44,544 cachhttp.dll
+07/14/2009  10:15 AM            10,240 cachtokn.dll
+07/14/2009  10:15 AM             9,728 cachuri.dll
+11/21/2010  12:25 PM            43,520 compstat.dll
+08/27/2012  08:33 AM    <DIR>          Config
+07/14/2009  10:15 AM            41,984 custerr.dll
+07/14/2009  10:15 AM            19,456 defdoc.dll
+07/14/2009  10:15 AM            23,552 dirlist.dll
+08/27/2012  08:33 AM    <DIR>          en-US
+07/14/2009  10:15 AM            55,808 filter.dll
+07/14/2009  10:15 AM            27,136 gzip.dll
+07/14/2009  10:15 AM            22,528 httpmib.dll
+07/14/2009  10:15 AM            12,800 hwebcore.dll
+06/11/2009  06:23 AM            63,105 iis.msc
+11/21/2010  12:24 PM           198,144 iiscore.dll
+07/14/2009  10:15 AM            89,088 iisreg.dll
+07/14/2009  10:15 AM            12,288 iisreqs.dll
+07/14/2009  10:05 AM           220,160 iisres.dll
+11/21/2010  12:24 PM           241,152 iissetup.exe
+11/21/2010  12:24 PM            59,904 iissyspr.dll
+11/21/2010  12:25 PM           205,824 iisutil.dll
+11/21/2010  12:24 PM           397,824 iisw3adm.dll
+11/21/2010  12:25 PM            30,720 iis_ssi.dll
+07/14/2009  10:15 AM           106,496 isapi.dll
+09/11/2012  01:00 PM    <DIR>          ja-JP
+07/14/2009  10:15 AM            19,456 loghttp.dll
+11/21/2010  12:25 PM           131,072 Microsoft.Web.Administration.dll
+11/21/2010  12:25 PM         1,048,576 Microsoft.Web.Management.dll
+07/14/2009  10:15 AM            39,424 modrqflt.dll
+11/21/2010  12:24 PM           364,544 nativerd.dll
+07/14/2009  10:16 AM            19,968 protsup.dll
+07/14/2009  10:16 AM            20,992 redirect.dll
+07/14/2009  10:16 AM            26,624 rsca.dll
+07/14/2009  10:16 AM            49,664 rscaext.dll
+11/21/2010  12:25 PM            37,888 static.dll
+11/21/2010  12:25 PM            19,456 validcfg.dll
+07/14/2009  10:16 AM             9,216 w3ctrlps.dll
+07/14/2009  10:16 AM            30,208 w3ctrs.dll
+07/14/2009  10:16 AM            24,064 w3dt.dll
+07/14/2009  10:16 AM            15,872 w3tp.dll
+11/21/2010  12:24 PM            19,968 w3wp.exe
+11/21/2010  12:24 PM            55,296 w3wphost.dll
+07/14/2009  10:16 AM            24,064 wbhstipm.dll
+07/14/2009  10:16 AM            23,552 wbhst_pm.dll
+07/14/2009  10:16 AM           137,728 XPath.dll
+              56 File(s)      5,524,983 bytes
+               5 Dir(s)   1,309,261,824 bytes free

@@ -1,0 +1,57 @@
+
+Image Name                     PID Session Name        Session#    Mem Usage
+========================= ======== ================ =========== ============
+System Idle Process              0 Services                   0         24 K
+System                           4 Services                   0      2,308 K
+smss.exe                       404 Services                   0        732 K
+csrss.exe                      472 Services                   0      7,792 K
+csrss.exe                      516 Console                    1      5,464 K
+wininit.exe                    524 Services                   0      4,216 K
+winlogon.exe                   568 Console                    1      4,200 K
+services.exe                   588 Services                   0      7,140 K
+lsass.exe                      612 Services                   0     11,980 K
+lsm.exe                        620 Services                   0      5,840 K
+svchost.exe                    764 Services                   0      7,888 K
+svchost.exe                    824 Services                   0      7,992 K
+svchost.exe                    892 Services                   0     22,188 K
+LogonUI.exe                    904 Console                    1     14,528 K
+svchost.exe                    956 Services                   0      6,856 K
+svchost.exe                    968 Services                   0     89,260 K
+SLsvc.exe                      988 Services                   0     12,240 K
+svchost.exe                   1048 Services                   0     10,000 K
+svchost.exe                   1104 Services                   0     17,472 K
+svchost.exe                   1132 Services                   0     24,176 K
+svchost.exe                   1260 Services                   0     10,752 K
+spoolsv.exe                   1444 Services                   0     11,948 K
+svchost.exe                   1472 Services                   0     11,756 K
+sqlservr.exe                  1716 Services                   0  1,726,340 K
+taskeng.exe                   1728 Services                   0      6,788 K
+NRPE_NT.exe                   1776 Services                   0      5,140 K
+svchost.exe                   1868 Services                   0      5,300 K
+svchost.exe                   1880 Services                   0      2,836 K
+ReportingServicesService.     1932 Services                   0     54,588 K
+snmp.exe                       436 Services                   0      9,836 K
+sqlwriter.exe                  480 Services                   0     12,596 K
+svchost.exe                    644 Services                   0     10,340 K
+svchost.exe                    752 Services                   0      4,472 K
+wsrm.exe                       748 Services                   0     12,996 K
+VivaldiFramework.exe           448 Services                   0      3,400 K
+cmd.exe                       1696 Services                   0      2,132 K
+javaw.exe                     1684 Services                   0     20,132 K
+mrmonitor.exe                 1808 Services                   0      8,792 K
+WmiPrvSE.exe                  2248 Services                   0      6,544 K
+WmiPrvSE.exe                  2320 Services                   0     15,704 K
+fdlauncher.exe                2540 Services                   0      3,704 K
+fdhost.exe                    2688 Services                   0      6,516 K
+msdtc.exe                     2832 Services                   0      7,432 K
+inetinfo.exe                  3848 Services                   0     19,780 K
+svchost.exe                   3836 Services                   0      5,008 K
+dllhost.exe                   3504 Services                   0      6,780 K
+SQLAGENT.EXE                  2976 Services                   0      6,944 K
+TrustedInstaller.exe           444 Services                   0     49,884 K
+svchost.exe                   4032 Services                   0      6,936 K
+UI0Detect.exe                 1580 Services                   0      8,568 K
+ntvdm.exe                     4884 Services                   0      6,708 K
+w3wp.exe                      4424 Services                   0    119,328 K
+cmd.exe                       4076 Services                   0      2,072 K
+tasklist.exe                  5024 Services                   0      5,076 K

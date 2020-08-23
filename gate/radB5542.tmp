@@ -1,0 +1,67 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:21             0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:1433           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:3071           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5666           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49154          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49155          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49157          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49162          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49173          0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:1434         0.0.0.0:0              LISTENING
+  TCP    172.19.229.171:80      172.19.127.72:50328    TIME_WAIT
+  TCP    172.19.229.171:80      172.19.127.74:57627    TIME_WAIT
+  TCP    172.19.229.171:139     0.0.0.0:0              LISTENING
+  TCP    211.16.229.171:80      113.254.175.163:2177   ESTABLISHED
+  TCP    211.16.229.171:80      113.254.175.163:2179   ESTABLISHED
+  TCP    211.16.229.171:80      113.254.175.163:2180   ESTABLISHED
+  TCP    211.16.229.171:80      113.254.175.163:2181   ESTABLISHED
+  TCP    211.16.229.171:80      113.254.175.163:2182   ESTABLISHED
+  TCP    211.16.229.171:80      128.241.45.126:8994    ESTABLISHED
+  TCP    211.16.229.171:80      128.241.45.126:10982   ESTABLISHED
+  TCP    211.16.229.171:80      128.241.45.126:23796   ESTABLISHED
+  TCP    211.16.229.171:80      128.241.45.126:24483   ESTABLISHED
+  TCP    211.16.229.171:80      128.241.45.126:28513   ESTABLISHED
+  TCP    211.16.229.171:80      128.241.45.126:32461   ESTABLISHED
+  TCP    211.16.229.171:80      128.241.45.126:51968   ESTABLISHED
+  TCP    211.16.229.171:80      128.241.45.126:57222   ESTABLISHED
+  TCP    211.16.229.171:80      128.241.45.126:58583   ESTABLISHED
+  TCP    211.16.229.171:80      128.241.45.126:62645   ESTABLISHED
+  TCP    211.16.229.171:80      190.45.78.180:1416     ESTABLISHED
+  TCP    211.16.229.171:139     0.0.0.0:0              LISTENING
+  TCP    [::]:80                [::]:0                 LISTENING
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:1433              [::]:0                 LISTENING
+  TCP    [::]:3389              [::]:0                 LISTENING
+  TCP    [::]:49152             [::]:0                 LISTENING
+  TCP    [::]:49153             [::]:0                 LISTENING
+  TCP    [::]:49154             [::]:0                 LISTENING
+  TCP    [::]:49155             [::]:0                 LISTENING
+  TCP    [::]:49162             [::]:0                 LISTENING
+  TCP    [::]:49173             [::]:0                 LISTENING
+  TCP    [::1]:1434             [::]:0                 LISTENING
+  UDP    0.0.0.0:123            *:*                    
+  UDP    0.0.0.0:161            *:*                    
+  UDP    0.0.0.0:500            *:*                    
+  UDP    0.0.0.0:3456           *:*                    
+  UDP    0.0.0.0:4500           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    127.0.0.1:3456         *:*                    
+  UDP    172.19.229.171:137     *:*                    
+  UDP    172.19.229.171:138     *:*                    
+  UDP    211.16.229.171:137     *:*                    
+  UDP    211.16.229.171:138     *:*                    
+  UDP    [::]:123               *:*                    
+  UDP    [::]:161               *:*                    
+  UDP    [::]:500               *:*                    
+  UDP    [::]:5355              *:*                    

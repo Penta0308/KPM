@@ -1,0 +1,69 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:21             0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:80             0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:1433           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:3071           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:3389           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:5666           0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49152          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49153          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49154          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49155          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49157          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49162          0.0.0.0:0              LISTENING
+  TCP    0.0.0.0:49173          0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:1434         0.0.0.0:0              LISTENING
+  TCP    127.0.0.1:8080         127.0.0.1:62223        ESTABLISHED
+  TCP    127.0.0.1:62223        127.0.0.1:8080         ESTABLISHED
+  TCP    172.19.229.171:80      172.19.127.72:59791    TIME_WAIT
+  TCP    172.19.229.171:80      172.19.127.74:46196    TIME_WAIT
+  TCP    172.19.229.171:139     0.0.0.0:0              LISTENING
+  TCP    211.16.229.171:80      190.45.78.180:1416     CLOSE_WAIT
+  TCP    211.16.229.171:80      190.45.78.180:1667     CLOSE_WAIT
+  TCP    211.16.229.171:80      190.45.78.180:1686     CLOSE_WAIT
+  TCP    211.16.229.171:80      190.45.78.180:1687     CLOSE_WAIT
+  TCP    211.16.229.171:80      190.45.78.180:1701     CLOSE_WAIT
+  TCP    211.16.229.171:80      190.45.78.180:1770     CLOSE_WAIT
+  TCP    211.16.229.171:80      190.45.78.180:1866     CLOSE_WAIT
+  TCP    211.16.229.171:80      190.45.78.180:1871     CLOSE_WAIT
+  TCP    211.16.229.171:80      190.45.78.180:1872     CLOSE_WAIT
+  TCP    211.16.229.171:80      190.45.78.180:1884     CLOSE_WAIT
+  TCP    211.16.229.171:80      190.45.78.180:1905     ESTABLISHED
+  TCP    211.16.229.171:80      220.111.152.70:32791   ESTABLISHED
+  TCP    211.16.229.171:80      220.111.152.70:32792   ESTABLISHED
+  TCP    211.16.229.171:139     0.0.0.0:0              LISTENING
+  TCP    211.16.229.171:62225   67.219.103.2:80        SYN_SENT
+  TCP    [::]:80                [::]:0                 LISTENING
+  TCP    [::]:135               [::]:0                 LISTENING
+  TCP    [::]:445               [::]:0                 LISTENING
+  TCP    [::]:1433              [::]:0                 LISTENING
+  TCP    [::]:3389              [::]:0                 LISTENING
+  TCP    [::]:49152             [::]:0                 LISTENING
+  TCP    [::]:49153             [::]:0                 LISTENING
+  TCP    [::]:49154             [::]:0                 LISTENING
+  TCP    [::]:49155             [::]:0                 LISTENING
+  TCP    [::]:49162             [::]:0                 LISTENING
+  TCP    [::]:49173             [::]:0                 LISTENING
+  TCP    [::1]:1434             [::]:0                 LISTENING
+  UDP    0.0.0.0:123            *:*                    
+  UDP    0.0.0.0:161            *:*                    
+  UDP    0.0.0.0:500            *:*                    
+  UDP    0.0.0.0:3456           *:*                    
+  UDP    0.0.0.0:4500           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    127.0.0.1:3456         *:*                    
+  UDP    172.19.229.171:137     *:*                    
+  UDP    172.19.229.171:138     *:*                    
+  UDP    211.16.229.171:137     *:*                    
+  UDP    211.16.229.171:138     *:*                    
+  UDP    [::]:123               *:*                    
+  UDP    [::]:161               *:*                    
+  UDP    [::]:500               *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [fe80::3866:9da3:cc0c:d697%11]:546  *:*                    
+  UDP    [fe80::391f:ca31:8308:54e9%10]:546  *:*                    
